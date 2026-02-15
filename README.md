@@ -8,3 +8,4 @@ and structured data processing.
 
 Always interested in improving performance, simplifying architecture, and writing software
 that behaves predictably under pressure.
+Seeking 2026 Software Engineer / Digital Development roles in London
